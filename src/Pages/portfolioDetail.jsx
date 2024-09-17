@@ -4,20 +4,6 @@ import { useParams } from "react-router-dom";
 const portfolios = [
   //this is an example portfolio item
   {
-    id: 3,
-    name: "calculator",
-    description:
-      "A personal portfolio showcasing my projects and skills. Then discuss the project technical aspects in detail. lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
-    technicalSkills: [
-      "React",
-      "React Basics",
-      "React events",
-      "React Props",
-      "React Hooks",
-    ],
-    link: "https://github.com/yosephhabtamu/calculator",
-  },
-  {
     id: 5,
     name: "counter redux",
     description:
